@@ -62,6 +62,7 @@ create table Vende(
 );
 
 select * from Produto order by preco desc;
+select max(preco) from Produto;
 select AVG(preco) from Produto;
 select Produto.descricao from Vende inner join Produto on Produto.codprod = Vende.codprod inner join Filial where Filial.nome = "f3";
 select nome,rg from Empregado as Emp inner join Cidade on Cidade.codcid = Emp.codcid where Cidade.uf = "RS" and where Emp.salario > 5000;
