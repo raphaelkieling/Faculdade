@@ -1,0 +1,17 @@
+header{
+	height: 150px;
+	background: gray;
+	color:white;
+}
+
+header{
+	padding-top:30px;
+}
+
+aside nav ul{
+	padding-top: 30px;
+	list-style: none;
+}
+aside nav ul li{
+	padding-bottom: 5px;
+}
