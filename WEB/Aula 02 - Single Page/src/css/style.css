@@ -8,14 +8,13 @@
 }
 
 .container-perfil{
-	padding: 50px 0px;
-	background: #41295a;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2F0743, #41295a);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2F0743, #41295a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background-image: url('../img/background.png');
+	background-position: center;
+	background-attachment: fixed;
 	color:white;
 }
 
-.container-skills{
+.container-skills,.container,.container-perfil,.container_map,footer{
 	padding: 50px 0px;
 }
 
@@ -46,4 +45,32 @@
 
 .thumb-skill{
 	height: 250px;
+}
+
+.container_map{
+	background-image: url('../img/background_map.jpg');
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+	padding-bottom: 50px;
+	display: flex;
+	flex-direction: row;
+	align-items: stretch;
+}
+._map{
+	width: 100%;
+	min-height: 400px;
+}
+
+.icon img{
+	width: 30px !important;
+	height: 30px !important;
+	margin-right: 10px;
+}
+.icon-group{
+	margin-bottom: 10px !important;
+}
+
+h5{
+	font-weight: bold !important;
 }

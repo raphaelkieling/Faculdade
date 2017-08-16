@@ -1,0 +1,8 @@
+/home/raphael/Documents/Faculdade/Comercial/Aula/bin/Debug/netcoreapp1.1/Aula.deps.json
+/home/raphael/Documents/Faculdade/Comercial/Aula/bin/Debug/netcoreapp1.1/Aula.runtimeconfig.json
+/home/raphael/Documents/Faculdade/Comercial/Aula/bin/Debug/netcoreapp1.1/Aula.runtimeconfig.dev.json
+/home/raphael/Documents/Faculdade/Comercial/Aula/obj/Debug/netcoreapp1.1/Aula.AssemblyInfo.cs
+/home/raphael/Documents/Faculdade/Comercial/Aula/bin/Debug/netcoreapp1.1/Aula.dll
+/home/raphael/Documents/Faculdade/Comercial/Aula/bin/Debug/netcoreapp1.1/Aula.pdb
+/home/raphael/Documents/Faculdade/Comercial/Aula/obj/Debug/netcoreapp1.1/Aula.dll
+/home/raphael/Documents/Faculdade/Comercial/Aula/obj/Debug/netcoreapp1.1/Aula.pdb
