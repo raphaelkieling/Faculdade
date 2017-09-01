@@ -13,9 +13,12 @@ namespace Aula
                 .UseKestrel()
                 .Configure(
                     app=>{
-                        app.Run(context => context.Response.WriteAsync("Olá mundo") );
+                        app.Run(context =>
+                        context.Response.WriteAsync("Olá mundo") );
                     }
-                ).Build();
+                )
+                .UseUrls("http://localhost:5050")
+                .Build();
 
                 host.Run();
         }

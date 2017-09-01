@@ -1,7 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/raphael/.nuget/packages"
+      "C:\\Users\\rapha\\.nuget\\packages"
     ]
   }
 }
