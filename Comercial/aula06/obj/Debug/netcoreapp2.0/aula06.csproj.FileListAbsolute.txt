@@ -1,0 +1,10 @@
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aula06\obj\Debug\netcoreapp2.0\aula06.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aula06\obj\Debug\netcoreapp2.0\aula06.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aula06\obj\Debug\netcoreapp2.0\aula06.AssemblyInfo.cs
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aula06\bin\Debug\netcoreapp2.0\aula06.deps.json
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aula06\bin\Debug\netcoreapp2.0\aula06.runtimeconfig.json
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aula06\bin\Debug\netcoreapp2.0\aula06.runtimeconfig.dev.json
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aula06\bin\Debug\netcoreapp2.0\aula06.dll
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aula06\bin\Debug\netcoreapp2.0\aula06.pdb
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aula06\obj\Debug\netcoreapp2.0\aula06.dll
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aula06\obj\Debug\netcoreapp2.0\aula06.pdb
