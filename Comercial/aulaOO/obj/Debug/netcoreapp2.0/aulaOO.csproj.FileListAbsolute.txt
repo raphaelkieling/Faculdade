@@ -1,0 +1,10 @@
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aulaOO\bin\Debug\netcoreapp2.0\aulaOO.deps.json
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aulaOO\bin\Debug\netcoreapp2.0\aulaOO.runtimeconfig.json
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aulaOO\bin\Debug\netcoreapp2.0\aulaOO.runtimeconfig.dev.json
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aulaOO\bin\Debug\netcoreapp2.0\aulaOO.dll
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aulaOO\bin\Debug\netcoreapp2.0\aulaOO.pdb
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aulaOO\obj\Debug\netcoreapp2.0\aulaOO.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aulaOO\obj\Debug\netcoreapp2.0\aulaOO.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aulaOO\obj\Debug\netcoreapp2.0\aulaOO.AssemblyInfo.cs
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aulaOO\obj\Debug\netcoreapp2.0\aulaOO.dll
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\aulaOO\obj\Debug\netcoreapp2.0\aulaOO.pdb

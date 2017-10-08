@@ -18,7 +18,7 @@ namespace aula06.Models
             idade = pIdade;
         }
 
-        public void Salvar(Pessoa pPessoa){
+        public virtual void Salvar(Pessoa pPessoa){
 
         }
     }

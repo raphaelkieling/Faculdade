@@ -1,0 +1,10 @@
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\injecao\bin\Debug\netcoreapp2.0\injecao.deps.json
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\injecao\bin\Debug\netcoreapp2.0\injecao.runtimeconfig.json
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\injecao\bin\Debug\netcoreapp2.0\injecao.runtimeconfig.dev.json
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\injecao\bin\Debug\netcoreapp2.0\injecao.dll
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\injecao\bin\Debug\netcoreapp2.0\injecao.pdb
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\injecao\obj\Debug\netcoreapp2.0\injecao.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\injecao\obj\Debug\netcoreapp2.0\injecao.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\injecao\obj\Debug\netcoreapp2.0\injecao.AssemblyInfo.cs
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\injecao\obj\Debug\netcoreapp2.0\injecao.dll
+C:\Users\rapha\Documents\Programming\Faculdade\Comercial\injecao\obj\Debug\netcoreapp2.0\injecao.pdb

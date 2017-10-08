@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div>
+    <h1>Tabela Cliente</h1>
+    <table class="table"> 
+        <thead>
+            <tr>
+                <th>Número</th>
+                <th>Saldo</th>
+                <th>Limite</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@ViewBag.conta.Numero</td>                
+                <td>@ViewBag.conta.Saldo</td>                
+                <td>@ViewBag.conta.Limite</td>                
+            </tr>
+        </tbody>
+    </table>
+</div>

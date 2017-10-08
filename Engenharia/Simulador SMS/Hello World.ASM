@@ -1,0 +1,29 @@
+
+
+;Acadêmicos: Sidinei Lopes, Cássio Bauer,José Henrique
+CLO
+MOV BL,50
+CALL 10
+CALL 40
+HALT
+ORG 10
+PUSH AL
+PUSH BL
+PUSHF
+Rep:
+IN 00
+CMP AL, 0D
+JZ Stop
+MOV [BL], AL
+INC BL
+JMP Rep
+Stop:
+MOV AL,0
+MOV [BL], AL
+POPF
+POP BL
+POP AL
+RET
+ORG 40
+RET
+END

@@ -1,0 +1,76 @@
+--exercicio add
+clo
+
+	mov AL,2
+	mov BL,2
+	add AL,BL
+end
+
+--exercicio 2
+-mul
+clo
+	mov AL,2
+	mov BL,4
+	mul AL,BL
+end
+
+-div
+clo
+	mov AL,2
+	mov BL,4
+	div AL,BL
+end
+
+
+1000 0100 84 vr v
+1000 1000 88 vr a
+0011 0000 30 v  vr
+0101 0000 50 a  vr
+
+-sub
+clo
+	mov AL,4
+	mov BL,2
+	sub AL,BL
+end
+
+--exercicio sinalera
+clo 
+
+start:
+	mov AL,84
+	out 01
+	
+	mov AL,88
+	out 01
+
+	mov AL,30
+	out 01
+
+ 	mov AL,50
+	out 01
+jmp start
+
+end
+
+H   e     l    l    o
+48h  45h  4Ch  4Ch  4fh
+
+
+--hello
+clo
+	mov AL,48
+	mov [c0],AL
+	
+	mov AL,45
+	mov [c1],AL
+
+	mov AL,4c
+	mov [c2],AL
+
+	mov AL,4c
+	mov [c3],AL
+
+	mov AL,4f
+	mov [c4],AL
+end;

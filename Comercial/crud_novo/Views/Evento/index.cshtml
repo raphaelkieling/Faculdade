@@ -1,0 +1,26 @@
+@model IEnumerable<crud_pessoa.Models.Evento>
+<div class="container">
+    <table class="table table-striped">
+        <thead>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Endereço</th>
+            <th>Data</th>
+            <th>Número Limite de Pessoas no Evento</th>
+            <th>Deletar</th>
+        </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.id</td>
+                    <td>@item.name</td>
+                    <td>@item.address</td>
+                    <td>@item.data</td>
+                    <td>@item.numeroAproximado</td>
+                    <td><a href="Evento/Delete/@item.id" class="btn btn-danger">Deletar</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
