@@ -1,0 +1,16 @@
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\api\bin\Debug\netstandard2.0\api.deps.json
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\api\bin\Debug\netstandard2.0\api.dll
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\api\bin\Debug\netstandard2.0\api.pdb
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\api\obj\Debug\netstandard2.0\api.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\api\obj\Debug\netstandard2.0\api.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\api\obj\Debug\netstandard2.0\api.AssemblyInfo.cs
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\api\obj\Debug\netstandard2.0\api.dll
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\api\obj\Debug\netstandard2.0\api.pdb
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\api\api\bin\Debug\netstandard2.0\api.deps.json
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\api\api\bin\Debug\netstandard2.0\api.dll
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\api\api\bin\Debug\netstandard2.0\api.pdb
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\api\api\obj\Debug\netstandard2.0\api.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\api\api\obj\Debug\netstandard2.0\api.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\api\api\obj\Debug\netstandard2.0\api.AssemblyInfo.cs
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\api\api\obj\Debug\netstandard2.0\api.dll
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\api\api\obj\Debug\netstandard2.0\api.pdb

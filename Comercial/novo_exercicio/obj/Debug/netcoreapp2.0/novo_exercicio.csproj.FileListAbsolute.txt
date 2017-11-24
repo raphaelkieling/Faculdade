@@ -1,0 +1,10 @@
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\novo_exercicio\bin\Debug\netcoreapp2.0\novo_exercicio.deps.json
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\novo_exercicio\bin\Debug\netcoreapp2.0\novo_exercicio.runtimeconfig.json
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\novo_exercicio\bin\Debug\netcoreapp2.0\novo_exercicio.runtimeconfig.dev.json
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\novo_exercicio\bin\Debug\netcoreapp2.0\novo_exercicio.dll
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\novo_exercicio\bin\Debug\netcoreapp2.0\novo_exercicio.pdb
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\novo_exercicio\obj\Debug\netcoreapp2.0\novo_exercicio.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\novo_exercicio\obj\Debug\netcoreapp2.0\novo_exercicio.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\novo_exercicio\obj\Debug\netcoreapp2.0\novo_exercicio.AssemblyInfo.cs
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\novo_exercicio\obj\Debug\netcoreapp2.0\novo_exercicio.dll
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\novo_exercicio\obj\Debug\netcoreapp2.0\novo_exercicio.pdb
