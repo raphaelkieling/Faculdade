@@ -1,52 +1,47 @@
 using System.Collections.Generic;
+using crud_novo.Models;
+using System.Linq;
 
 namespace crud_pessoa.Models
 {
-    public class EventoRepository
+    public class EventoRepository : IEventoRepository
     {
-        public static List<Evento> eventos = new List<Evento>();
+        private readonly DataContext _context;
 
-        public EventoRepository(){
-            if(eventos.Count == 0)
-                this.Fill();
+        public EventoRepository(DataContext context){
+            this._context = context;
         }
-        public void Fill()
-        {
-            eventos.Add(new Evento(1,"Raphael","asdsa","321321",2));
-            eventos.Add(new Evento(1,"Raphael","asdsa","321321",2));
-            eventos.Add(new Evento(1,"Raphael","asdsa","321321",2));
-            eventos.Add(new Evento(1,"Raphael","asdsa","321321",2));
-            eventos.Add(new Evento(1,"Raphael","asdsa","321321",2));
-            eventos.Add(new Evento(1,"Raphael","asdsa","321321",2));
-            eventos.Add(new Evento(1,"Raphael","asdsa","321321",2));
-            eventos.Add(new Evento(1,"Raphael","asdsa","321321",2));
-            eventos.Add(new Evento(1,"Raphael","asdsa","321321",2));
-        }
+
         public void Create(Evento evento)
         {
-            eventos.Add(evento);
+            this._context.Evento.Add(evento);
+            this._context.SaveChanges();
         }
 
         public void Delete(int id)
         {
-            Evento toDelete = eventos.Find(a=>a.id == id);
-            eventos.Remove(toDelete);
+            var evento = this._context.Evento.Where(eventos => eventos.id == id).FirstOrDefault();
+            this._context.Evento.Remove(evento);
+            this._context.SaveChanges();
         }
 
-        public void Update(Evento eventos)
+        public void Update(Evento evento)
         {
-
+            var first = this._context.Evento.Where(eventos => eventos.id == evento.id).FirstOrDefault();
+            first.name = evento.name;
+            first.address = evento.address;
+            first.numeroAproximado = evento.numeroAproximado;
+            this._context.SaveChanges();
         }
 
         public Evento GetById(int id)
         {
-            return null;
+            return this._context.Evento.Find(id);
         }
 
         public List<Evento> GetAll()
         {
-            return eventos;
+            return this._context.Evento.ToList();
         }
-
     }
 }

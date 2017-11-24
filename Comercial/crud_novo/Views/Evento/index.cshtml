@@ -1,5 +1,8 @@
 @model IEnumerable<crud_pessoa.Models.Evento>
+
 <div class="container">
+    <br>
+    <a class="btn btn-primary" href="Evento/Create">Criar</a>    
     <table class="table table-striped">
         <thead>
             <th>Id</th>
@@ -18,7 +21,8 @@
                     <td>@item.address</td>
                     <td>@item.data</td>
                     <td>@item.numeroAproximado</td>
-                    <td><a href="Evento/Delete/@item.id" class="btn btn-danger">Deletar</a></td>
+                    <td><a href="Evento/UpdatePage/@item.id" class="btn btn-primary">Update</a></td>                    
+                    <!-- <td><a href="Evento/Delete/@item.id" class="btn btn-danger">Deletar</a></td> -->
                 </tr>
             }
         </tbody>

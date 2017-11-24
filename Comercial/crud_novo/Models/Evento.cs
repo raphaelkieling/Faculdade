@@ -11,7 +11,6 @@ namespace crud_pessoa.Models
             this.address = address;
             this.data = data;
             this.numeroAproximado = numeroAproximado;
-
         }
         public int id { get; private set; }
         public string name { get; set; }

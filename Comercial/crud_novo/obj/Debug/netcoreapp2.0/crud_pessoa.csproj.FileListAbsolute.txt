@@ -18,3 +18,13 @@ C:\Users\rapha\Documents\Programming\Faculdade\Comercial\crud_novo\bin\Debug\net
 C:\Users\rapha\Documents\Programming\Faculdade\Comercial\crud_novo\bin\Debug\netcoreapp2.0\crud_pessoa.runtimeconfig.dev.json
 C:\Users\rapha\Documents\Programming\Faculdade\Comercial\crud_novo\bin\Debug\netcoreapp2.0\crud_pessoa.dll
 C:\Users\rapha\Documents\Programming\Faculdade\Comercial\crud_novo\bin\Debug\netcoreapp2.0\crud_pessoa.pdb
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\crud_novo\bin\Debug\netcoreapp2.0\crud_pessoa.deps.json
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\crud_novo\bin\Debug\netcoreapp2.0\crud_pessoa.runtimeconfig.json
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\crud_novo\bin\Debug\netcoreapp2.0\crud_pessoa.runtimeconfig.dev.json
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\crud_novo\bin\Debug\netcoreapp2.0\crud_pessoa.dll
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\crud_novo\bin\Debug\netcoreapp2.0\crud_pessoa.pdb
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\crud_novo\obj\Debug\netcoreapp2.0\crud_pessoa.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\crud_novo\obj\Debug\netcoreapp2.0\crud_pessoa.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\crud_novo\obj\Debug\netcoreapp2.0\crud_pessoa.AssemblyInfo.cs
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\crud_novo\obj\Debug\netcoreapp2.0\crud_pessoa.dll
+C:\Users\rapha\Documents\Projetos\Faculdade\Comercial\crud_novo\obj\Debug\netcoreapp2.0\crud_pessoa.pdb

@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
+using crud_pessoa.Models;
+
 namespace crud_pessoa
 {
     public class Startup
@@ -23,7 +25,9 @@ namespace crud_pessoa
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddAuthorization();            
             services.AddDbContext<DataContext>(x=>x.UseMySql(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddScoped<IEventoRepository,EventoRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
