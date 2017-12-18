@@ -5,7 +5,7 @@ use Slim\Http\Response;
 
 $app->get('/post', function (Request $request, Response $response) {
     $sql = "SELECT * FROM post";
-        //pega do banco
+     //pega do banco
     $dbO = new Db();
     $stmt = $dbO->query($sql);
     $salas = $stmt->fetchAll(PDO::FETCH_OBJ);
@@ -52,7 +52,7 @@ $app->post('/post', function (Request $request, Response $response) {
         return $response->withStatus(400);
     }
 
-    $sql = "INSERT INTO post SET titulo='$body->titulo' , descricao='$body->descricao' , codUsuario='$body->codUsuario' ,codSala='$body->codSala'";
+    $sql = "INSERT INTO post SET titulo='$body->titulo' , descricao='$body->descricao' , codUsuario='$body->codUsuario' ,codSala='$body->codSala',imagemBase='$body->imagemBase'";
     $db = new Db();
     $stmt = $db->query($sql);
 
